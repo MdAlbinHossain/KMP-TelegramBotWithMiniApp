@@ -1,0 +1,11 @@
+abi_version=1.201.0
+builtins_platform=WASM
+compiler_version=2.1.10
+depends=components.resources\:library components.ui-tooling-preview\:library org.jetbrains.androidx.lifecycle\:lifecycle-viewmodel io.ktor\:ktor-client-serialization io.ktor\:ktor-client-content-negotiation io.ktor\:ktor-client-logging io.ktor\:ktor-client-json io.ktor\:ktor-client-core io.ktor\:ktor-serialization-kotlinx-json org.jetbrains.compose.material\:material org.jetbrains.compose.material\:material-ripple org.jetbrains.compose.foundation\:foundation org.jetbrains.compose.animation\:animation org.jetbrains.compose.material\:material-icons-core org.jetbrains.compose.foundation\:foundation-layout org.jetbrains.compose.ui\:ui org.jetbrains.kotlinx\:kotlinx-browser org.jetbrains.androidx.lifecycle\:lifecycle-runtime-compose org.jetbrains.androidx.lifecycle\:lifecycle-runtime org.jetbrains.androidx.lifecycle\:lifecycle-common org.jetbrains.compose.annotation-internal\:annotation org.jetbrains.compose.animation\:animation-core io.ktor\:ktor-http-cio io.ktor\:ktor-events io.ktor\:ktor-websocket-serialization io.ktor\:ktor-sse io.ktor\:ktor-serialization-kotlinx io.ktor\:ktor-serialization io.ktor\:ktor-websockets io.ktor\:ktor-http io.ktor\:ktor-utils io.ktor\:ktor-io org.jetbrains.kotlinx\:kotlinx-coroutines-core org.jetbrains.kotlinx\:kotlinx-serialization-json-io org.jetbrains.kotlinx\:kotlinx-serialization-json org.jetbrains.kotlinx\:kotlinx-serialization-core org.jetbrains.kotlinx\:kotlinx-io-core org.jetbrains.kotlinx\:kotlinx-io-bytestring org.jetbrains.compose.runtime\:runtime-saveable kotlin org.jetbrains.compose.runtime\:runtime org.jetbrains.compose.ui\:ui-text org.jetbrains.compose.ui\:ui-graphics org.jetbrains.compose.ui\:ui-unit org.jetbrains.skiko\:skiko org.jetbrains.compose.ui\:ui-geometry org.jetbrains.compose.ui\:ui-util org.jetbrains.kotlinx\:atomicfu
+ir_signature_versions=1,2
+jsOutputName=composeApp
+metadata_version=1.4.1
+serializedIrFileFingerprints=32qjrvh65boha.13s94esz40r38 1xam0r7ecnni1.j8q68bhz98v0 17t7yizddtwjg.c1e09kd3h9py 280ju6aounf9r.dy5vo1ggkgen 3rjeqm8l6kh3c.2xtfjsfbr5bw2 gn7493mvwla2.1919p00myqazr n1g00mvmtc4z.3swguv1ug10fa
+serializedKlibFingerprint=3ez5wbi8ha3jg.y48lkg7b2uiu
+unique_name=KMP-TelegramMiniApp\:composeApp
+wasm_targets=wasm-js
