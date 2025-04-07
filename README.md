@@ -2,7 +2,7 @@
 
 [![Kotlin](https://img.shields.io/badge/Kotlin-2.1.10-blue.svg?style=flat-square&logo=kotlin)](https://kotlinlang.org/)
 [![Gradle](https://img.shields.io/badge/Gradle-8.x-green.svg?style=flat-square&logo=gradle)](https://gradle.org/)
-[![Ktor](https://img.shields.io/badge/Ktor-2.x-orange.svg?style=flat-square)](https://ktor.io/)
+[![Ktor](https://img.shields.io/badge/Ktor-3.x-orange.svg?style=flat-square)](https://ktor.io/)
 [![WASM](https://img.shields.io/badge/WASM-Kotlin-purple.svg?style=flat-square)](https://kotlinlang.org/docs/wasm-overview.html)
 
 This is a simple Telegram Bot and Mini App project built using Kotlin Multiplatform (KMP). It demonstrates how to create a cross-platform application where the client-side Mini App runs in Telegram using WebAssembly (WASM) and the backend logic is handled by a Ktor server.
