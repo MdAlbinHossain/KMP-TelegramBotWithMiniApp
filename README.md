@@ -34,6 +34,9 @@ This is a simple Telegram Bot and Mini App project built using Kotlin Multiplatf
 * **Ktor:** A powerful and lightweight asynchronous framework for creating the backend server.
 * **Gradle:** The build automation system.
 
+## How to run
+* Create a new telegram bot using [Telegram Bot Father](https://telegram.me/BotFather). give it a name and copy the token.
+* Use [ngrok](https://dashboard.ngrok.com/get-started/setup/macos) to create an https domain for the web app locally.
 
 ## Project Structure
 
