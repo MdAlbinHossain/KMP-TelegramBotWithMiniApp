@@ -20,8 +20,8 @@ import kotlinx.serialization.json.Json
 private const val LOG_HTTP = "HTTP call"
 
 private const val botToken =
-    "7831723042:AAFdd4VY7bAkPVW5mC2U_v6i74Gvmbw4L-I" // Replace with your actual bot token
-private const val miniAppUrl = "https://b11a-40-81-128-5.ngrok-free.app" // Replace with your Mini App URL
+    "YOUR_BOT_TOKEN" // Replace with your actual bot token
+private const val miniAppUrl = "YOUR_MINI_APP_URL" // Replace with your Mini App URL
 private const val telegramApiUrl = "https://api.telegram.org/bot$botToken"
 
 val client = HttpClient {
