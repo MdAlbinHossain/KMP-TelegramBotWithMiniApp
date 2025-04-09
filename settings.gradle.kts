@@ -30,3 +30,5 @@ dependencyResolutionManagement {
 rootProject.name = "telegram-mini-app"
 include(":client:composeApp")
 include(":server:server")
+include(":core:core")
+include(":common:common")
