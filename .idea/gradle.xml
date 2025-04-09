@@ -12,6 +12,10 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/client" />
             <option value="$PROJECT_DIR$/client/composeApp" />
+            <option value="$PROJECT_DIR$/common" />
+            <option value="$PROJECT_DIR$/common/common" />
+            <option value="$PROJECT_DIR$/core" />
+            <option value="$PROJECT_DIR$/core/core" />
             <option value="$PROJECT_DIR$/server" />
             <option value="$PROJECT_DIR$/server/server" />
           </set>

@@ -6,6 +6,7 @@
       <module name="KMP-TelegramMiniApp.backend.main" target="21" />
       <module name="KMP-TelegramMiniApp.backend.test" target="21" />
       <module name="KMP-TelegramMiniApp.composeApp" target="21" />
+      <module name="telegram-mini-app.common.common" target="21" />
       <module name="telegram-mini-app.main" target="21" />
       <module name="telegram-mini-app.test" target="21" />
     </bytecodeTargetLevel>
